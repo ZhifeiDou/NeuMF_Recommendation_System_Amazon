@@ -1,5 +1,5 @@
 # MIE424_Final_Project
-This is the final project for MIE424.
+This is the final project for MIE424 Group 9.
 
 The folder is consisting of three .ipynb files and two datasets which are listed below
 - MIE424 Project MovieLens.ipynb
