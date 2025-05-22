@@ -1,8 +1,8 @@
 # NeuMF_Recommendation_System_Amazon
 This is the final project for MIE424 Group 9. This project is building a recommendation system with NeuMF - a fusion model with Neural Network and Matrix Factorization proposed by He et al in [this paper](https://arxiv.org/abs/1708.05031).
 
-## Project Report
-The
+## Project Detail
+The details of this project can be find [here](/MIE424_Final_Report.docx.pdf)
 
 ## File structure
 The folder consists of three .ipynb files and two datasets which are listed below
