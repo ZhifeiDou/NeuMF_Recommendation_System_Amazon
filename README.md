@@ -1,7 +1,11 @@
-# MIE424_Final_Project
-This is the final project for MIE424 Group 9.
+# NeuMF_Recommendation_System_Amazon
+This is the final project for MIE424 Group 9. This project is building a recommendation system with NeuMF - a fusion model with Neural Network and Matrix Factorization proposed by He et al in [this paper](https://arxiv.org/abs/1708.05031).
 
-The folder is consisting of three .ipynb files and two datasets which are listed below
+## Project Report
+The
+
+## File structure
+The folder consists of three .ipynb files and two datasets which are listed below
 - MIE424 Project MovieLens.ipynb
 - MIE424 Project Amazon.ipynb
 - MIE424 Project Compare SGD and Adam.ipynb
